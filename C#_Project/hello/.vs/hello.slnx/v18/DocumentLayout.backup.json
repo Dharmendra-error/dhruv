@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\Program\\C#_Project\\hello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808414D2-0A1D-4955-A4F2-D9248CE3F3E2}|hello\\hello.csproj|c:\\users\\acer\\desktop\\program\\c#_project\\hello\\hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808414D2-0A1D-4955-A4F2-D9248CE3F3E2}|hello\\hello.csproj|solutionrelative:hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808414D2-0A1D-4955-A4F2-D9248CE3F3E2}|hello\\hello.csproj|c:\\users\\acer\\desktop\\program\\c#_project\\hello\\hello\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808414D2-0A1D-4955-A4F2-D9248CE3F3E2}|hello\\hello.csproj|solutionrelative:hello\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Program\\C#_Project\\hello\\hello\\Program.cs",
+              "RelativeDocumentMoniker": "hello\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Program\\C#_Project\\hello\\hello\\Program.cs",
+              "RelativeToolTip": "hello\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T05:38:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Program\\C#_Project\\hello\\hello\\Player.cs",
+              "RelativeDocumentMoniker": "hello\\Player.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Program\\C#_Project\\hello\\hello\\Player.cs",
+              "RelativeToolTip": "hello\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T05:38:28.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

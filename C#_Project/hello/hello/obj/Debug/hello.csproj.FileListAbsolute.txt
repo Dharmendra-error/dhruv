@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\bin\Debug\hello.exe.config
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\bin\Debug\hello.exe
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\bin\Debug\hello.pdb
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\obj\Debug\hello.exe
+C:\Users\acer\Desktop\Program\C#_Project\hello\hello\obj\Debug\hello.pdb
