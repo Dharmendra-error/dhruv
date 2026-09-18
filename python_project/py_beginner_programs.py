@@ -1,43 +1,51 @@
-name = input("Enter Your Name - ")
-age = int(input("Enter your Age - "))
-DOB = int(input("Enter Your Date of Birth - "))
-bp = input("Enter Your Birth-place - ")
-print("\nName - ",name, "\nAge - ",age , "\nDate Of Birth - ", DOB ,"\nBirth-Place - ", bp)
+# name = input("Enter Your Name - ")
+# age = int(input("Enter your Age - "))
+# DOB = int(input("Enter Your Date of Birth - "))
+# bp = input("Enter Your Birth-place - ")
+# print("\nName - ",name, "\nAge - ",age , "\nDate Of Birth - ", DOB ,"\nBirth-Place - ", bp)
 
-# square & cube of any no.
+# # square & cube of any no.
 
-n1 = float(input("Enter any num: "))
-sq = n1*n1
-print("Square: ",sq)
-cube = n1**3
-print("Cube: ",cube)
+# n1 = float(input("Enter any num: "))
+# sq = n1*n1
+# print("Square: ",sq)
+# cube = n1**3
+# print("Cube: ",cube)
 
-# swap of 2 var without 3rd var
-# logic 1
-a = 10
-b = 20
+# # swap of 2 var without 3rd var
+# # logic 1
+# a = 10
+# b = 20
 
-a = a+b
-b = a-b
-a = a-b
+# a = a+b
+# b = a-b
+# a = a-b
 
-print("Swap - ",a,b)
+# print("Swap - ",a,b)
 
-# logic 2
+# # logic 2
 
-a,b = b,a
-print("Swap 2nd logic - ",a,b)
+# a,b = b,a
+# print("Swap 2nd logic - ",a,b)
 
-# Simple interest 
+# # Simple interest 
 
-p = float(input("Enter Princple: "))
-r = float(input("Enter Rate: "))
-t = int(input("Enter Time: ")) 
+# p = float(input("Enter Princple: "))
+# r = float(input("Enter Rate: "))
+# t = int(input("Enter Time: ")) 
 
-SI = (p*t*r)/100
+# SI = (p*t*r)/100
 
-print("Simple interest - ",SI)
+# print("Simple interest - ",SI)
 
+def duplicate(s):
+    res = ""
+    for ch in s:
+        if ch not in res:  # Only add if not already in result
+            res += ch      # Append to result
+    print(res)
+
+duplicate("foolooolkooliookji")  
 
 
 

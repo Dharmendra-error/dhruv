@@ -1,11 +1,5 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-
 class Animal{
-	void walk(){
+	static void walk(){
 		System.out.println("I am walking");
 	}
 }
@@ -28,6 +22,7 @@ public class inheritance{
 	  bird.walk();
 	  bird.fly();
       bird.sing();
+	  
 	
    }
 }
